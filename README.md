@@ -34,7 +34,7 @@ A passionate and detail-oriented Frontend Developer with expertise in building r
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyndylove1/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-F7DF1E?style=for-the-badge&logo=googlesites&logoColor=black)](https://cyndy-dev.vercel.app/)  
+[![My Portfolio](https://img.shields.io/badge/Portfolio-F7DF1E?style=for-the-badge&logo=googlesites&logoColor=black)](https://cyndy-dev.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nwekecynthia2015@gmail.com)
 
 ---
